@@ -51,4 +51,4 @@ const STEPS = 5;
 
 ## License
 
-(MIT License)[LICENSE] super usual
+[MIT License](LICENSE) super usual
