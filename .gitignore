@@ -1,0 +1,3 @@
+shades/*.*
+!shades/.gitkeep
+node_modules
