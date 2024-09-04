@@ -142,7 +142,7 @@ class ColorLerper {
 	/** hexToHSL
 	 * @description Converts HEX color to HSL color
 	 * @param {string} hex  - HEX color
-	 * @returns {Object}  - Object of HSL color
+	 * @returns {Object} - Object of HSL color
 	 */
 	hexToHSL(hex) {
 		let r = 0, g = 0, b = 0;

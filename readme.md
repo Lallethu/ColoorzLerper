@@ -1,5 +1,7 @@
 # ColorLerper
 
+![ColorLerper Logo](color-lerper-icon.png "Nice lil logo")
+
 ## Description
 
 This is a simple tool to interpolate a color for its light and dark variants. It is useful for creating a color palette for a design system.
